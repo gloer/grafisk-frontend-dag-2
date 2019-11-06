@@ -1,0 +1,25 @@
+
+
+header {
+    background-color: rgb(177, 142, 96);
+}
+
+main {
+    height: 50vh;
+    background-color: chartreuse;
+
+    /* Disse tre linjene vil alltid midtstille innholdet */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hilsen {
+    background-color: white;
+    text-align: center;
+}
+
+
+footer {
+    background-color: crimson;
+}
